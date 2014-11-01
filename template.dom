@@ -1,0 +1,15 @@
+<div>
+  <h1>{{state.name}}</h1>
+
+  <h2>Props</h2>
+  <ul data-hook="props">
+  </ul>
+
+  <h2>Session</h2>
+  <ul data-hook="session">
+  </ul>
+
+  <h2>Derived</h2>
+  <ul data-hook="derived">
+  </ul>
+</div>

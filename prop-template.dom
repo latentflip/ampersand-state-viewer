@@ -1,0 +1,3 @@
+<li>
+  {{model.name}} {{model.type}} {{model.default}} {{model.required}}
+</li>

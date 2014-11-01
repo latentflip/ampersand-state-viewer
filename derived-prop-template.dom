@@ -1,0 +1,5 @@
+<li>
+  {{model.name}} {{model.type}} {{model.default}} {{model.required}}
+  {{(concat model.deps)}}
+  <pre>{{ model.fn }}</pre>
+</li>
